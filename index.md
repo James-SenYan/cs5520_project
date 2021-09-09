@@ -1,3 +1,7 @@
+---
+layout: default
+title: Sen Yan, Horrible Cop
+---
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/James-SenYan/cs5520_project/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
