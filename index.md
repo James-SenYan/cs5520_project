@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Sen Yan, Horrible Cop
+title: Sen Yan, CS5520
 ---
 ## Posts
 
