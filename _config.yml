@@ -1,4 +1,4 @@
 theme: jekyll-theme-cayman
 name: Sen Yan, Awesome Dev
 markdown: kramdown
-permalink: /:year/:month/:day/:title/cs5520_project
+permalink: /cs5520_project/:year/:month/:day/:title
