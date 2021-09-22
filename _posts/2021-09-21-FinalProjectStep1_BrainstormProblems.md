@@ -2,7 +2,7 @@
 layout: post
 title: "Final Project Step 1: Brainstorm Problems "
 ---
-# think about 50 problems for my final project: show steel prices on app. My father is a merchant in steel industry.
+# Think about 50 problems for my final project: show steel prices on app. My father is a merchant in steel industry.
 
 ## <a href="https://james-senyan.github.io/cs5520_project/2021/09/21/FurtherExploration3Problems">Further exploration of three problems.</a>
 
