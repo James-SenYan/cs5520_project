@@ -4,7 +4,7 @@ title: "Final Project Step 1: Brainstorm Problems "
 ---
 # think about 50 problems for my final project: show steel prices on app. My father is a merchant in steel industry.
 
-## <a href="https://github.ccs.neu.edu/senyan/cs5520_project/tree/hw2/ImplicitIntents">Further exploration of three problems.</a>
+## <a href="https://james-senyan.github.io/cs5520_project/2021/09/21/FurtherExploration3Problems">Further exploration of three problems.</a>
 
 ## 50problems
 >- Accounting for this is a commercial application, contacts and infomation of company are shown at the bottom of the page.
