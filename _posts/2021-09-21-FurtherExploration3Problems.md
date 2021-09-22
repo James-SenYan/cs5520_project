@@ -1,5 +1,7 @@
-
-
+---
+layout: post
+title: "Further exploration into 3 Problems "
+---
 
 #First problem: place a order
 > **A persona and scenario:** Manufactures or infrastructure companies want to place a order of steel materials like triangle steel, steel plate etc.. They couldn't get access to current steel price online.
