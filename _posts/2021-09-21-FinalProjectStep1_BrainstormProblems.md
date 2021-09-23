@@ -7,103 +7,110 @@ title: "Final Project Step 1: Brainstorm Problems "
 ## <a href="https://james-senyan.github.io/cs5520_project/2021/09/21/FurtherExploration3Problems">Further exploration of three problems.</a>
 
 ## 50problems
->- Accounting for this is a commercial application, contacts and infomation of company are shown at the bottom of the page.
 
->- There is a price table consisting of prices of items within latest 7 seven days.
+>- People who work out want to make a table with today’s movements on mobile phones.
 
->- where does those price data come from? 
+>- Mountain climbers want to know the altitude of their location.
 
->- This could be tricky since it's a website data mining problem. Hopefully, I can find a website publishing prices.
+>- People who love to read will write a list of books they have read, but paper-based ones are not easy to keep.
 
->- Prices are dynamic which means that I should write a data mining program refreshing in a short intervals.
+>- Few people in ordinary life have tools to measure the noise level. Can it be measured with a mobile phone？
 
->- Customers might want to know price of only one item. Hence, there should be a filter on the page which customers can use to select items they want to purchase.
+>- People hope that mobile phones and computers can transfer files to each other.
 
->- We can't deny the fact diagrams are more intuitive than tables when showing trends of prices.Hence, there should be a show  diagram button in the page.Another activity showing diagram pops up when users click that button in order to transit to diagram mode.
+>- Mobile phones are becoming more and more important. It is very inconvenient if the phone is out of power. People want to know how long the remaining power can be used.
 
->- Actually a lot of sales employees in steel industry in China use social media to advertise. They post current prices to social media so as to advertise. This is less intuitive and inefficient. Customers could become annoying when seeing many ads on social media platform.
+>- People want to know the fun places in the destination before they travel.
 
->- Owing to the fact that steel industry is rather traditional, customers always make a call to ask price. However, they can get access to them directly with this application.
+>- Many people have difficulties to think of a weekly recipe.
 
->- Actually my father has a warehouse to store different commidities made from steel such as triangle steel, steel plate etc.Showing remaining amount of goods in his warehouse is equivalently important.
+>- People on a diet want to know how to eat properly.
 
->- Hence, price as well as stock should be contained in a table.
+>- Tickets for some popular concerts are hard to get.
 
->- Users should be notified after placing their orders.Here comes the email system.
+>- Many people forget to pay their mobile phone bills.
 
->- A order consisting of information of customers and items is sent via email system. I'm wondering if I could use exsiting email system to address this problem.
-
->- Order information can be divided into two parts.Information of customer: name, phone number, address.Another part is about items:name of item, amount of item.
+>- People want to share their daily life on a platform and chat with more people.
 
 >- What's the purpost of this application: The main purpose of my application is to provide users with price changes instantly.
 
->- In the end, how would this application look like.
+>- Internet fraud has caused many people to lose money and even their lives.
 
->- Contents for this application.
+>- Each electrical appliance in the home needs a separate remote control.
 
->- Who will this application target at? 
->- Are the users female, male or neutral?
+>- The elderly and children are easy to get lost and need to use their mobile phones to track their location.
 
->- How many services are provided in this application.
+>- People write a shopping list with a pen before going to the supermarket, which is inconvenient.
 
->- Among those services available, which are key services?
+>- Some commodity prices change quickly, and people want to buy at a low price.
 
->- Which service would users use most frequently?
+>- Now people have various membership cards, hence they often forget the passwords of these cards.
 
->- The first problem I need to address when developing app.
+>- People want to know how much time they spend on their phones in a week.
 
->- As for the exterior, which service is displayed at the home page?
+>- Basketball games require people to keep score, which is too troublesome and easy to make mistakes.
 
->- What's the primary color for my application?
+>- Old people will forget to take medicine. Design a software to remind them to take medicine on time.
 
->- To make this product successful, what should I do to promote website visits.
+>- Mobile phones often receive spam and phone calls from strangers.
 
->- How long would this application take to develop.
+>- More and more teenagers are playing mobile phones. Parents want to monitor how long they spend playing with their mobile phones.
 
->- Consider what kinds of platforms should this application support.
->- Night mode is supported.
+>- People don’t want to go to the hospital when they are ill moderately.Finding some reason online is helpful for them to cure.
 
->- Is there a similar app that I can refer to.
+>- When encountering traffic jams, people want to know what caused it. It could be a car accident, or it could be a road repair.
 
->- What are the good ideas of those similar apps that we can learn from.
+>- People on a diet want to record what they eat everyday.
 
->- What are the negative points of those apps that we should avoid.
+>- Maybe they want to record calories as well.
 
->- What kind of style do I want?
+>- Food ad-hocs have a need to find most popular restaurants in their areas.
+
+>- Those people want to review comments of restaurants.
+
+>- People love video games. They want to seek pleasure when play games.
  
->- What are the essential elements of your design?
+>- With online shopping becomes more and more popular, there is a need to develop an application to enable try on clothes virtually.
 
->- Which age group is the product aimed at?
+>- City dwellers want to record money they spend everyday.
 
->- Waht basic knowledge should users have so as to use this app.
+>- Online chatting is popular among teenagers.
 
->- Should this application have a logging in process? Hence, we can get contact information from users.
+>- More likely we hope to automatically recognize and translate the text via taking a picture instead of typing.
 
->- Where should I keep data like user information: phone numbers, email address.
+>- In some buildings, navigation does not work. Users wants to get a floor plan on mobile phones.
 
->- Usually each order is about thousands of dollars. Hence, users might want to pay such amount by bank application. We don't need to add payment service in our application.
+>- The epidemic is still serious. People want to know the number of infections in various regions.
 
->- Users are likely to go the warehouse. It's important to provide an implicit intent to lauch map activity so as to provide address navigation.
+>- Many people forget to read the weather forecast before going out. What if design a software that can remind users to bring an umbrella according to the weather forecast.
 
 >- The key thing of a successful application is that it should provide users with fantastic using experience. I should consider cache important data in order to make using experience smooth.
 
 >- The difference between platforms is also something that needs to be considered in the design of mobile app products. 
 
->- For example, Android and iOS systems, iOS is done through gestures, and Android sometimes has physical buttons, so you need to understand your target users when designing. What type of cell phone.
+>- People on a diet can use the software to calculate the most appropriate intake based on their weight and height
 
->- Come up with a idea to make this application compatible as much as it could be.
+>- In a social occasion, people who are close to each other automatically enter a social group to get to know
 
->- Mobile devices are limited in sizes, I should make sure images and words are easy to recognize.
+>- People who want to lose weight need to know the calories of what they eat. You can calculate the approximate calories by taking pictures of food with your mobile phone.
 
->- Conform behaviors of this app with others so as to avoid users becoming confused.
+>- There are few parking spaces in the city and it takes a long time to find. Finding a parking space via app is easier.
 
->- What problems will my application help users to address?
+>- Suddenly heard a nice song, I want to use app to recognize the song.
 
->- How to attract users to reuse this application after a while?
+>- It's inconvenient to carry a measurer all the time. We can measure dimentions via carema.
 
->- How to make this application more generic? I could add this application to a larger project working as a module.
+>- Someone suddenly comeing up with a creative idea wants to take a note. It's easy to reatrive such note if they type on phones.
 
->- Should I make full use of widgets of mobile phones like built-in GPS, camera, barometer, accelerometer?
+>- Worker are eager to go hiking on weekend. They might want to find someone else who wants to go to the same place. Developing an app that gathers those people together is essential.
+
+>- This proposal applies to other events as well such as travelling etc..
+
+
+
+
+
+
 
 
 
