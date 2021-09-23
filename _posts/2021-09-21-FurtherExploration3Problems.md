@@ -3,33 +3,30 @@ layout: post
 title: "Further exploration into 3 Problems "
 ---
 
-#First problem: place a order
-> **A persona and scenario:** Manufactures or infrastructure companies want to place a order of steel materials like triangle steel, steel plate etc.. They couldn't get access to current steel price online.
+#First problem: Nowadays people have various membership cards, hence they often forget the passwords of these cards.
+> **A persona and scenario:** More and more stores encourage users to recharge and apply for a card in advance. 
+
+> **Trigger:** Many people cannot remember their passwords because of too many cards.
+
+> **Desired Outcome:** Design a card password management software to help group users record the password of each card.
 
 
-> **Trigger:** Customers no longer have to make a call to company everytime to place a order which is time-consuming. Customers want to add things to cart. Usually customers would type what they'd like to purchase in excel and sent a table to steel company.It's more efficient if they press add button in app. A order is generated and sent to office automatically via email system.
+> **Base Knowledge:** The customer knows the password corresponding to each card.
 
 
-> **Desired Outcome:** Order details are sent to both sellers and buyers via email. It should inclue total price, items information, buyer's address and buyer's contact information.
-
-
-> **Base Knowledge:** Users should be familar with ordinary screen touching actions like click deletion buttons, addition buttons, navigation buttons.
-
-
-> **Required Knowledge:** Users need to their address and email address.
-
+> **Required Knowledge:** Users should know information of their cards such as name, address of store to each card.
 
 
 > **Artifacts:** 
-- online shopping app
+- membership cards for various stores
 - mobile phones/pc
 
 
-#Second problem: price chart
+#Second problem: display a price chart of steel commodities
 > **A persona and scenario:** Prices go up and down frequently for steel industry. Buyers should pay a lot attention to price so as to place a order at a reasonable price.However, customers are likely to miss such timing with scarce tool enabling them to do so.
 
 
-> **Trigger:** Customers could a price chart on home page which ontains prices within a week. It enables users to predict price trend and hence decide buy-in timing.
+> **Trigger:** It enables users to predict price trend and hence decide buy-in timing.
 
 
 > **Desired Outcome:** Users get a price chart of recent 7 days. In addition to price, current available stock is included along with it.
@@ -45,19 +42,19 @@ title: "Further exploration into 3 Problems "
 - mobile phones/pc/website page
 
 
-#Third problem: display commodities' information and images 
-> **A persona and scenario:** Steel cargo is usually stored in warehouses in central cities. Buyers no matter living near warehouses or far away from them have no choice but to travel long distance to have a look of steel cargo. They want to make sure whether those goods are in good condition. Moreover, they want to know parameters such as dimentions, weight, length of commodities.
+#Third problem: Basketball games require people to keep score, which is too troublesome and easy to make mistakes.
+> **A persona and scenario:** 
+When friends get together to play a game, it is often necessary to find another person to record scores.
 
 
-> **Trigger:** Customers are provided with several real images taken from stock warehouse. 
+> **Trigger:** Recording scores manually is too cumbersome and error-prone. 
 
-> **Desired Outcome:** Details of commodities are displayed to buyers when they search by names.
+> **Desired Outcome:** Use the mobile phone camera to automatically recognize whether it is a two-pointer or a three-pointer.
 
 
-> **Base Knowledge:** Knowing how to type charaters into a input box is essential. 
+> **Base Knowledge:** Users know the basketball scoring rules
 
-> **Required Knowledge:** Users need to know how to search by names of commodities they like.
-
+> **Required Knowledge:** The user needs to turn on the phone camera function.
 > **Artifacts:** 
-- online shopping app
-- mobile phones/pc
+- mobile  app
+- mobile phones
