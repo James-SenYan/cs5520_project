@@ -3,7 +3,7 @@ layout: post
 title: "Final Project Proposal: Adding features to Todo App"
 ---
 
-#This is a proposal for my final project: Add fancy features to my Todo App
+# This is a proposal for my final project: Add fancy features to my Todo App
 
 ## Sorting/filtering tasks
 I would say that sorting and filtering tasks are provided in various applications. Users are likely to sort tasks based on deadline of each task and filter tasks that are marked done already.
