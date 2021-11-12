@@ -28,3 +28,5 @@ For signing up for my Todo app, users are required to type into their username a
 Google Assistant is the google voice assistant which is powerful so that it could connect home devices and build natural conversations. What I want to do with google assistant is that launching my todo app by simply saying "hey google, open Todo App"!
 
 After searching solutions on google, I found this could be implemented by BII(built-in intents) which are created by google. The idea is to create a xml file and specify a shortcut in it.
+
+However, I noticed that I could use google assistant only if I've published my todo app to google play console. I can not published my app to play console since I don't have a valid ID or driving license for authentication.
